@@ -14,6 +14,10 @@
 ## Project Overview
 This project analyzes HR data to explore various aspects of the workforce, such as gender distribution, department turnover rates, employee location demographics, and employee count changes over time. The objective is to clean, analyze, and visualize the dataset for actionable insights that can be used to inform HR decisions. This project utilizes SQL for data cleaning and analysis, and Power BI for visualization to explore a comprehensive HR dataset.
 
+![HR Dashboard 1](https://github.com/user-attachments/assets/d6c733ff-4c48-499e-8afa-efb2e55bdf24)
+
+![HR Dashboard 2](https://github.com/user-attachments/assets/f774df86-e9bd-43de-8537-adc72f1841f5)
+
 ## Data Source
 - The dataset used for this project was obtained from *Kaggle*. It contains anonymized HR data, including employee demographics, job roles, and termination records.
 - *Data* - HR Data with over 22000 rows from the year 2000 to 2020.
